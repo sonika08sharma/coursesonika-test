@@ -1,3 +1,7 @@
-{"employees": 
-    {"name":"Sonoo", "email":"sonoojaiswal1987@gmail.com"}   
-} 
+{  
+    "employee": {  
+        "name":       "sonoo",   
+        "salary":      56000,   
+        "married":    true  
+    }  
+}
